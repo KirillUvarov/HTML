@@ -1,0 +1,92 @@
+09:57:31 From Alina To Everyone:
+	Здравствуйте
+09:58:01 From Фоняк Максим To Everyone:
+	Добрый день всем!
+09:58:14 From Уваров Кирилл To Everyone:
+	Всем привет!
+09:59:02 From Ольга To Everyone:
+	Привет👋
+09:59:11 From Александр Орлов To Everyone:
+	Привет!
+09:59:20 From Фоняк Максим To Everyone:
+	+
+09:59:23 From Уваров Кирилл To Everyone:
+	+
+09:59:25 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:00:44 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:01:09 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:01:21 From olegvoropaev To Everyone:
+	Павел, вы молчите или это проблемы со связью?
+10:01:38 From Alina To Everyone:
+	да
+10:01:39 From Уваров Кирилл To Everyone:
+	+
+10:01:57 From Павел To Everyone:
+	Олег, меня слышно, проверьте звук
+10:02:00 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:02:16 From olegvoropaev To Everyone:
+	Теперь слышно, спасибо
+10:02:40 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:02:47 From Павел To Everyone:
+	https://quizizz.com/join?gc=702632
+10:08:40 From Дмитрий Wilovod To Everyone:
+	в чем разница обновления от полного обновления ?
+10:08:50 From igool To Everyone:
+	Это и есть тестирование API ?
+10:09:02 From Дмитрий Wilovod To Everyone:
+	понял
+10:10:38 From Уваров Кирилл To Everyone:
+	эндпоинт?
+10:17:28 From Алексей Дубатков To Everyone:
+	Не увидел что нет запятых )
+10:17:48 From Alina To Everyone:
+	😫
+10:20:37 From Дмитрий Wilovod To Everyone:
+	в столбик лучше
+10:21:47 From Дмитрий Wilovod To Everyone:
+	указать id
+10:22:34 From Уваров Кирилл To Everyone:
+	Можно ещё булево значение добавить
+10:24:51 From igool To Everyone:
+	Где какой тип используется ?
+10:25:03 From Alina To Everyone:
+	Пока все понятно)
+10:27:22 From Дмитрий Wilovod To Everyone:
+	через постман
+10:27:45 From Павел To Everyone:
+	https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+10:28:57 From Павел To Everyone:
+	https://reqres.in/
+10:33:24 From Павел To Everyone:
+	postman
+10:34:00 From Павел To Everyone:
+	https://gb.ru/posts/kak-testirovat-api-ili-postman-dlya-chajnikov Тестирование API c postman: https://www.youtube.com/watch?v=zfrQtU8eCEo На степике: https://stepik.org/course/120679/info Еще инфо: https://academy.yandex.ru/handbook/python/article/potokovyj-vvodvyvod-rabota-s-tekstovymi-fajlami-json 
+10:34:09 From Дмитрий Wilovod To Everyone:
+	спасибо
+10:35:13 From Павел To Everyone:
+	https://jsonformatter.org/xml-formatter
+10:35:23 From Павел To Everyone:
+	https://disk.yandex.ru/i/i3tcrj3vPxwwvg
+10:42:18 From Павел To Everyone:
+	https://disk.yandex.ru/i/XMW2QlG2VjNkRA
+10:42:22 From Павел To Everyone:
+	https://jsonformatter.org/json-parser
+10:52:05 From Павел To Everyone:
+	https://disk.yandex.ru/i/ehL6g0t_hCk8Xg
+10:56:25 From Павел To Everyone:
+	https://disk.yandex.ru/i/Nt7kLMqHeJTDTA
+11:02:18 From Алексей Дубатков To Everyone:
+	children
+11:02:19 From Алексей Дубатков To Everyone:
+	)
+11:02:51 From Уваров Кирилл To Everyone:
+	"kids":Null
+11:26:08 From Уваров Кирилл To Everyone:
+	Очень круто! Вопросов нет)
+11:34:44 From Павел To Everyone:
+	https://disk.yandex.ru/d/oejDK-LjyNIGLQ

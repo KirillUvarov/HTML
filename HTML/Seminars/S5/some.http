@@ -1,0 +1,5 @@
+GET http://nalog.ru/
+
+###
+
+GET https://api.openweathermap.org/data/2.5/find?q=Petersburg&type=like&APPID=9c20b1aa32df4c32fba012a128619f4e
